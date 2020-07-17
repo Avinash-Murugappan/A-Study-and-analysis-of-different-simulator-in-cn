@@ -8,19 +8,17 @@ ISSN (Print): 2347- 6710
 Website: http://www.ijirset.com
 Vol. 6, Issue 7, July 2017
 ```
-# A Study and Analysis of Different Simulators
+# A Study and Analysis of Different Simulators in Computer Network
 
-# in Computer Network
-
-#### Sudha Rani S^1 , Akshay R^2 , Avinash Arunachalam A M 3
+#### Sudha Rani S[1] , Akshay R[2] , Avinash Arunachalam A M[3]
 
 ```
 Assistant Professor, Department of Computer Science, Sri Krishna College of Engineering and Technology ,
-Coimbatore, Tamil Nadu, India^1
+Coimbatore, Tamil Nadu, India[1]
 UG Student, Department of Computer Science, Sri Krishna College of Engineering and Technology ,Coimbatore,Tamil
-Nadu , India^2
+Nadu , India[2]
 UG Student, Department of Computer Science, Sri Krishna College of Engineering and Technology ,Coimbatore,Tamil
-Nadu , India^3
+Nadu , India[3]
 ```
 **ABSTRACT** : Real world applications such as aircraft design, motor drive controller design and space robot integration
 simulation plays a prominent role. Simulation modelling aids to garner consensus and generate confidence for the
