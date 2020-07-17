@@ -1,9 +1,7 @@
 ```
 ISSN (Print): 2347- 6710
 ```
-## International Journal of Innovative Research in Science,
-
-## Engineering and Technology
+## International Journal of Innovative Research in Science,Engineering and Technology
 
 ```
 (An ISO 3297: 2007 Certified Organization)
